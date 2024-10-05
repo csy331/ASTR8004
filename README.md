@@ -1,4 +1,4 @@
-# My First Project
+# Assignment 3
 ## Repository Contents
 ### Jupyter notebook
 - Assignment3
