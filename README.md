@@ -5,7 +5,7 @@
 ### Jupyter notebook
 
 - Assignment3
-- 
+  
 ### Directories
 
 - **data/**:
